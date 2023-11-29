@@ -1,0 +1,15 @@
+C:\Users\yasin\source\repos\penisSize\penisSize\bin\Debug\netcoreapp3.1\penisSize.exe
+C:\Users\yasin\source\repos\penisSize\penisSize\bin\Debug\netcoreapp3.1\penisSize.deps.json
+C:\Users\yasin\source\repos\penisSize\penisSize\bin\Debug\netcoreapp3.1\penisSize.runtimeconfig.json
+C:\Users\yasin\source\repos\penisSize\penisSize\bin\Debug\netcoreapp3.1\penisSize.runtimeconfig.dev.json
+C:\Users\yasin\source\repos\penisSize\penisSize\bin\Debug\netcoreapp3.1\penisSize.dll
+C:\Users\yasin\source\repos\penisSize\penisSize\bin\Debug\netcoreapp3.1\penisSize.pdb
+C:\Users\yasin\source\repos\penisSize\penisSize\obj\Debug\netcoreapp3.1\penisSize.csprojAssemblyReference.cache
+C:\Users\yasin\source\repos\penisSize\penisSize\obj\Debug\netcoreapp3.1\penisSize.Form1.resources
+C:\Users\yasin\source\repos\penisSize\penisSize\obj\Debug\netcoreapp3.1\penisSize.csproj.GenerateResource.cache
+C:\Users\yasin\source\repos\penisSize\penisSize\obj\Debug\netcoreapp3.1\penisSize.AssemblyInfoInputs.cache
+C:\Users\yasin\source\repos\penisSize\penisSize\obj\Debug\netcoreapp3.1\penisSize.AssemblyInfo.cs
+C:\Users\yasin\source\repos\penisSize\penisSize\obj\Debug\netcoreapp3.1\penisSize.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\penisSize\penisSize\obj\Debug\netcoreapp3.1\penisSize.dll
+C:\Users\yasin\source\repos\penisSize\penisSize\obj\Debug\netcoreapp3.1\penisSize.pdb
+C:\Users\yasin\source\repos\penisSize\penisSize\obj\Debug\netcoreapp3.1\penisSize.genruntimeconfig.cache
